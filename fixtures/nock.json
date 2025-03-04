@@ -33,6 +33,8 @@
             "Express",
             "Access-Control-Allow-Origin",
             "*",
+            "Authorization", 
+            "Bearer 2019-01-14T11:34:18.045Z",
             "Content-Type",
             "application/json; charset=utf-8",
             "Content-Length",
